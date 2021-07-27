@@ -1,4 +1,4 @@
-name: bonsai-preview
+name: bonsai-batch
 dependencies:
   - python=3.7
   - jupyter=1.0.0
